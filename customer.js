@@ -9,9 +9,9 @@ let connection = mysql.createConnection({
   // Your port; if not 3306
   port: 3306,
   // Your username
-  user: "root",//keys.mysqlLogin.user,
+  user: "",//keys.mysqlLogin.user,
   // Your password
-  password: "Itapeva1998",//keys.mysqlLogin.password,
+  password: "",//keys.mysqlLogin.password,
   database: "bamazon"
 });
 
